@@ -1,0 +1,14 @@
+{
+    "name": "guobao/demo",
+    "description": "测试项目",
+    "type": "dev",
+    "require": {
+        "gregwar/captcha": "*"
+    },
+    "authors": [
+        {
+            "name": "guobao007",
+            "email": "18226613958@163.com"
+        }
+    ]
+}
